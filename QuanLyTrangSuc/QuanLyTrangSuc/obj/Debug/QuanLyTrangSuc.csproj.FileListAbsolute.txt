@@ -1,0 +1,159 @@
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\QuanLyTrangSuc.exe.config
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\QuanLyTrangSuc.exe
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\QuanLyTrangSuc.pdb
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\Guna.UI2.dll
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\Krypton.Toolkit.dll
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\MaterialSkin.dll
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\MetroFramework.Design.dll
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\MetroFramework.dll
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\Krypton.Toolkit.xml
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.csproj.AssemblyReference.cache
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.DangNhap.resources
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.Home.resources
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.Properties.Resources.resources
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.csproj.GenerateResource.cache
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.csproj.CoreCompileInputs.cache
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.csproj.CopyComplete
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.exe
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.pdb
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.TaiKhoan.resources
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.NhaCungCap.resources
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.SanPham.resources
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.ChiTietHoaDon.resources
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.ChiTietPhieuNhap.resources
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.PhieuNhap.resources
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.HoaDon.resources
+C:\Users\Laptop QHD\source\repos\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.ThongKe.resources
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\QuanLyTrangSuc.exe.config
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\QuanLyTrangSuc.exe
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\QuanLyTrangSuc.pdb
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\Guna.UI2.dll
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\Krypton.Toolkit.dll
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\MaterialSkin.dll
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\MetroFramework.Design.dll
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\MetroFramework.dll
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\Krypton.Toolkit.xml
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.csproj.AssemblyReference.cache
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.ChiTietPhieuNhap.resources
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.DangNhap.resources
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.ChiTietHoaDon.resources
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.HoaDon.resources
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.Home.resources
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.NhaCungCap.resources
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.PhieuNhap.resources
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.Properties.Resources.resources
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.SanPham.resources
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.TaiKhoan.resources
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.ThongKe.resources
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.csproj.GenerateResource.cache
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.csproj.CoreCompileInputs.cache
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.csproj.CopyComplete
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.exe
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.pdb
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.HoaDon_nhanvien.resources
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.in_hoadon.resources
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\ConsoleTables.dll
+C:\Users\trung\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\ConsoleTables.pdb
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\QuanLyTrangSuc.exe.config
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\QuanLyTrangSuc.exe
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\QuanLyTrangSuc.pdb
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\ConsoleTables.dll
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\Guna.UI2.dll
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\Krypton.Toolkit.dll
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\MaterialSkin.dll
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\MetroFramework.Design.dll
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\MetroFramework.dll
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\ConsoleTables.pdb
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\Krypton.Toolkit.xml
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.csproj.AssemblyReference.cache
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.ChiTietPhieuNhap.resources
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.DangNhap.resources
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.ChiTietHoaDon.resources
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.HoaDon.resources
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.HoaDonNhanVien.resources
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.HoaDon_nhanvien.resources
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.Home.resources
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.in_hoadon.resources
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.NhaCungCap.resources
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.PhieuNhap.resources
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.Properties.Resources.resources
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.SanPham.resources
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.TaiKhoan.resources
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.ThongKe.resources
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.csproj.GenerateResource.cache
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.csproj.CoreCompileInputs.cache
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.csproj.CopyComplete
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.exe
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.pdb
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.InHoaDon.resources
+C:\Users\Laptop QHD\Downloads\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.ThongKeSanPham.resources
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\QuanLyTrangSuc.exe.config
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\QuanLyTrangSuc.exe
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\QuanLyTrangSuc.pdb
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\ConsoleTables.dll
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\Guna.UI2.dll
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\Krypton.Toolkit.dll
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\MaterialSkin.dll
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\MetroFramework.Design.dll
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\MetroFramework.dll
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\ConsoleTables.pdb
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\Krypton.Toolkit.xml
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.csproj.AssemblyReference.cache
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.ChiTietPhieuNhap.resources
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.DangNhap.resources
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.ChiTietHoaDon.resources
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.HoaDon.resources
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.HoaDonNhanVien.resources
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.Home.resources
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.InHoaDon.resources
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.in_hoadon.resources
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.NhaCungCap.resources
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.PhieuNhap.resources
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.Properties.Resources.resources
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.SanPham.resources
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.TaiKhoan.resources
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.ThongKe.resources
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.ThongKeSanPham.resources
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.csproj.GenerateResource.cache
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.csproj.CopyComplete
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.exe
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.pdb
+C:\Users\trung\source\repos\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.HomeNhanVien.resources
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\QuanLyTrangSuc.exe.config
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\QuanLyTrangSuc.exe
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\QuanLyTrangSuc.pdb
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\ConsoleTables.dll
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\Guna.UI2.dll
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\Krypton.Toolkit.dll
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\MaterialSkin.dll
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\MetroFramework.Design.dll
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\MetroFramework.dll
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\ConsoleTables.pdb
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\bin\Debug\Krypton.Toolkit.xml
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.csproj.AssemblyReference.cache
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.ChiTietPhieuNhap.resources
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.DangNhap.resources
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.ChiTietHoaDon.resources
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.HoaDon.resources
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.HoaDonNhanVien.resources
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.Home.resources
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.HomeNhanVien.resources
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.InHoaDon.resources
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.NhaCungCap.resources
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.PhieuNhap.resources
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.Properties.Resources.resources
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.SanPham.resources
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.TaiKhoan.resources
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.ThongKe.resources
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.ThongKeSanPham.resources
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.csproj.GenerateResource.cache
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.csproj.CopyComplete
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.exe
+C:\Users\trung\source\repos\Tatcatruoc12_7_2023\QuanLyTrangSuc_final\QuanLyTrangSuc\QuanLyTrangSuc\QuanLyTrangSuc\obj\Debug\QuanLyTrangSuc.pdb
